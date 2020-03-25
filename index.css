@@ -1,0 +1,28 @@
+.summary{
+	/*overflow: hidden;*/
+	border-right: 2px solid grey;
+	border-width: thin;
+	border-radius: 16px;
+	color: white;
+	height: 228px;
+overflow: hidden;
+}
+.summary:hover{
+	overflow-y: scroll;
+	
+}
+.container{
+	margin-top: 20px;
+}
+
+.error-info{
+	border-radius: 20px;
+}
+.log-file{
+	list-style: none;
+	align-items: left;
+	text-align: left;
+	}
+.file-list{
+	margin-bottom: 3.5px;
+}
